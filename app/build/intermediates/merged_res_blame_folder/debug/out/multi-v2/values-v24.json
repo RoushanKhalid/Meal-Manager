@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mealmanager.app-mergeDebugResources-61:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Khalid\\.gradle\\caches\\9.0-milestone-1\\transforms\\0c945c1625dc83d11f0d5402340c19f4\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.mealmanager.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.drawable.ic_launcher_foreground"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_foreground.xml"
+            line="2"
+            column="1"
+            startOffset="40"
+            endLine="60"
+            endColumn="10"
+            endOffset="1922"/>
+        <entry
+            name="model"
+            string="drawable[ic_launcher_foreground(D),ic_launcher_background(D),ic_launcher(U)],string[app_name(U)],style[Theme_AppCompat_DayNight_NoActionBar(R),Theme_MealManager(U)];5^4;;;"/>
+        <location id="R.drawable.ic_launcher_background"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_background.xml"
+            line="2"
+            column="1"
+            startOffset="40"
+            endLine="9"
+            endColumn="9"
+            endOffset="287"/>
+    </map>
+
+</incidents>

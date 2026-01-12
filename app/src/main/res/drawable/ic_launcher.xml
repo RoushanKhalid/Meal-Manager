@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+  <!-- Background circle -->
+  <path
+      android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0"
+      android:fillColor="#4CAF50"
+      android:strokeColor="#2E7D32"
+      android:strokeWidth="4"/>
+
+  <!-- Plate -->
+  <path
+      android:pathData="M30,50 L78,50 L75,70 L33,70 Z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#E8F5E9"
+      android:strokeWidth="2"/>
+
+  <!-- Fork -->
+  <path
+      android:pathData="M45,30 L47,30 L47,50 L45,50 Z"
+      android:fillColor="#FFFFFF"/>
+  <path
+      android:pathData="M43,32 L49,32 L49,36 L43,36 Z"
+      android:fillColor="#FFFFFF"/>
+  <path
+      android:pathData="M43,38 L49,38 L49,42 L43,42 Z"
+      android:fillColor="#FFFFFF"/>
+
+  <!-- Spoon -->
+  <path
+      android:pathData="M60,30 L62,30 L62,45 Q65,48 65,52 Q65,56 62,58 L60,58 Q57,56 57,52 Q57,48 60,45 Z"
+      android:fillColor="#FFFFFF"/>
+
+  <!-- Food items on plate -->
+  <!-- Rice/curry -->
+  <path
+      android:pathData="M38,55 Q42,52 46,55 Q44,58 40,57 Z"
+      android:fillColor="#FFC107"/>
+  <path
+      android:pathData="M50,55 Q54,52 58,55 Q56,58 52,57 Z"
+      android:fillColor="#FF5722"/>
+  <path
+      android:pathData="M44,58 Q48,55 52,58 Q50,61 46,60 Z"
+      android:fillColor="#8BC34A"/>
+
+  <!-- Small accent dots -->
+  <path
+      android:pathData="M34.5,60m-1.5,0a1.5,1.5 0,1 1,3 0a1.5,1.5 0,1 1,-3 0"
+      android:fillColor="#FFFFFF"/>
+  <path
+      android:pathData="M64.5,62m-1.5,0a1.5,1.5 0,1 1,3 0a1.5,1.5 0,1 1,-3 0"
+      android:fillColor="#FFFFFF"/>
+  <path
+      android:pathData="M53,52m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"
+      android:fillColor="#FFFFFF"/>
+</vector>
