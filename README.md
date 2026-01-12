@@ -51,12 +51,7 @@ Many people participate in meal systems (hostels, offices, communities) where th
 - **Responsive design** for all screen sizes
 
 ## 📱 Screenshots & Demo
-
-| Dashboard | Calendar | Deposits | Settings |
-|-----------|----------|----------|----------|
-| ![Dashboard](screenshots/dashboard.png) | ![Calendar](screenshots/calendar.png) | ![Deposits](screenshots/deposits.png) | ![Settings](screenshots/settings.png) |
-
-*Note: Screenshots will be added once the app is finalized*
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/42641729-4d5a-4b6b-bb92-595bba4bc21f" />
 
 ## 🛠️ Installation & Setup
 
